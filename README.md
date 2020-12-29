@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Júnior Gomes</h1>
-<h3 align="center">📜 Tenho atualmente 16 anos, sou desenvolvedor front-end em busca do full-stacks, e em constante aprendizado.</h3>
+<h3 align="center">📜 Tenho atualmente 16 anos, sou desenvolvedor front-end em busca de ser fullstack, e em constante aprendizado!</h3>
 
 - 🌱 Atualmente estou aprendendo: **HTML5, CSS3, Javascript, UI/UX.**
 
