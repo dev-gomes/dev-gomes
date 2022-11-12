@@ -1,7 +1,7 @@
 ```javascript
-const gomes = {
+const me = {
   🏢: (about) {
-    description: "I'm 17 years old, I'm always looking to learn new technologies and trying to help everyone around me"
+    description: "Me chamo Raimundo Junior, Tenho 18 anos. Me considero um pessoa organizada e que busca sempre ajudar todos ao redor."
   },
   💻: (tools and languages) {
     VisualStudioCode: 'https://code.visualstudio.com/',
