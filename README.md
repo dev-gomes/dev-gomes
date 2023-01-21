@@ -12,15 +12,14 @@
 	
 ## <b>Sobre mim</b>
 
-<picture> <img align="right" src="./images/man_computer.gif" width=250px></picture>
-
+<img align="right" src="./images/man_computer.gif" width=250px>
 
 - Um desenvolvedor autodidata apaixonado por tecnologia
 - Estudante de segurança da informação nas horas vagas :)
 - Atualmente aprimorando meus conhecimentos em desenvolvimento web
 - Atualmente estou aberto a receber propostas [meu resumo](/)
 
-<img src="./images/line_rainbow.gif">
+<!-- <img src="./images/line_rainbow.gif"> -->
 
 ## <b>Techs and Tools</b>
 
@@ -67,7 +66,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    
-<img src="./images/line_rainbow.gif">
+<!-- <img src="./images/line_rainbow.gif"> -->
 
 ## <b> Vamos nos conectar?</b>
 
