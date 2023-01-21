@@ -70,7 +70,6 @@
 <img src="./images/line_rainbow.gif">
 
 ## <b> Vamos nos conectar?</b>
-<br>
 
 <div align='left'>
   <a href="https://www.linkedin.com/in/gomes-dev/" target="_blank">
