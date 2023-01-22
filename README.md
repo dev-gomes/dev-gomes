@@ -12,12 +12,12 @@
 	
 ## <b>Sobre mim</b>
 
-<img align="right" src="./images/man_computer.gif" width=250px>
+<img align="right" src="./assets/images/man_computer.gif" width=250px>
 
 - Um desenvolvedor autodidata apaixonado por tecnologia
 - Estudante de segurança da informação nas horas vagas :)
 - Atualmente aprimorando meus conhecimentos em desenvolvimento web
-- Atualmente estou aberto a receber propostas [meu resumo](/)
+- Atualmente estou aberto a receber propostas [meu resumo](./assets/documents/Curriculum.pdf)
 
 <!-- <img src="./images/line_rainbow.gif"> -->
 
@@ -57,7 +57,6 @@
     ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
     ![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
     
-
 - **Softwares and Tools**:
 
     ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
