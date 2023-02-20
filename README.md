@@ -1,15 +1,9 @@
 
 <h1 align="center">
-  <b>Hi , I'm Raimundo Junior </b>
+  <b>Oi, eu sou Raimundo Junior </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor;Programador;Engenheiro+de+Software;Garoto+de+programa" alt="Typing SVG" />
-  </a>
-</p>
-
-	
 ## <b>Sobre mim</b>
 
 <img align="right" src="./assets/images/man_computer.gif" width=250px>
