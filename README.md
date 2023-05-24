@@ -6,7 +6,7 @@
 
 Sou **Desenvolvedor de Software** e estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e pelas suas capacidades de transformar o mundo! Tenho 18 anos e estou sempre buscando por novas oportunidades e desafios, abaixo algumas informações sobre mim:
 
-- 🔭 Desenvolvedor Full Stack em <a href="https://www.linkedin.com/company/gogamersoficial/">@gogamers</a>
+- 🔭 Desenvolvedor Full Stack em <a target="_blank" href="https://www.linkedin.com/company/gogamersoficial/">@gogamers</a>
 - 💬 Estou sempre buscando aprender novas coisas;
 - ⚡️ Gamer nas horas vagas;
 
