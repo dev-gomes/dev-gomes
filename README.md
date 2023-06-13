@@ -4,9 +4,9 @@
 
 Sou **Desenvolvedor de Software** e acadêmico de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e pelas sua capacidades de transformar o mundo! Estou sempre buscando por novas oportunidades e desafios, abaixo algumas informações sobre mim:
 
-- 💼 Desenvolvedor Full Stack em @GoGamers<br>
-- 💬 Estou sempre buscando aprender e evoluir no que faço<br>
-- ⚡️ Gamer nas horas vagas<br>
+- 🎈 Tenho bons conhecimentos em: HTML, CSS, JavaScript, TypeScript, React.js, Node.js e AWS;
+- 💬 Estou sempre buscando aprender e evoluir no que faço;<br>
+- ⚡️ Gamer nas horas vagas;<br>
 
 <div align='left'>
   <a href="https://www.linkedin.com/in/gomes-dev/" target="_blank">
