@@ -15,4 +15,4 @@ Sou **Desenvolvedor de Software** e acadêmico de Análise e Desenvolvimento de 
 </div>
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gomes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
