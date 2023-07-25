@@ -7,12 +7,8 @@ Sou **Desenvolvedor de Software** e acadêmico de Análise e Desenvolvimento de 
 - 🎈 Tenho bons conhecimentos em: HTML, CSS, JavaScript, TypeScript, React.js, Node.js e AWS;
 - 💬 Estou sempre buscando aprender e evoluir no que faço;<br>
 - ⚡️ Gamer nas horas vagas;<br>
-
 <div align='left'>
   <a href="https://www.linkedin.com/in/gomes-dev/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:  Raimundo Junior-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
 </div>
-<br>
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gomes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
