@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://ik.imagekit.io/dfw3q47dv0/the_power_of_dark_side_fPLL-vX6C.gif" />
+  <img src="https://media1.giphy.com/media/7guVjhMF9qBKE/giphy.gif?cid=ecf05e4798q079zcs2opyqqp6prv1j3xpjwnxmbj4pbid94m&ep=v1_gifs_search&rid=giphy.gif" />
 </h1>
 
 Sou Desenvolvedor de Software e acadêmico de ADS. Sou apaixonado por tecnologia e pelas sua capacidades de transformar o mundo!
