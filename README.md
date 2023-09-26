@@ -1,16 +1,25 @@
-<h1 align="center">
-  <img src="https://media1.giphy.com/media/7guVjhMF9qBKE/giphy.gif?cid=ecf05e4798q079zcs2opyqqp6prv1j3xpjwnxmbj4pbid94m&ep=v1_gifs_search&rid=giphy.gif" />
-</h1>
-
-Sou Desenvolvedor de Software e acadêmico de ADS. Sou apaixonado por tecnologia e pelas sua capacidades de transformar o mundo!
-
-- 🎈 **Linguagens e Frameworks:** JavaScript, TypeScript, React.js, Vue.js e Node.js
-- 📚 **Estou estudando sobre: :** Ruby e Ruby on Rails
-
+<img alt="Night Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" align="center"/>
 <br>
 
-<div align='center'>
-  <a href="https://www.linkedin.com/in/gomes-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Raimundo Junior-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-</div>
+### About Me
+![GitHub followers](https://img.shields.io/github/followers/junior4g?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/junior4g?style=social)
+
+
+
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Analysis and systems development\
+💬 &nbsp;Feel free to reach out to me for for help or volunteering, or just for some interesting discussion.
+
+⚡ Fun Facts : 🍕 🥋 🎧 🎥 
+
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-ffffff?style=flat&logo=typescript&logoColor=black)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-ffffff?style=flat&logo=react&logoColor=black)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-ffffff?style=flat&logo=vue.js&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=black)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-ffffff?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
+### I'm learning about
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white)&nbsp;
