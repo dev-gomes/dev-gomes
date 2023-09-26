@@ -1,10 +1,7 @@
-<img alt="Night Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" align="center"/>
-<br>
+<img alt="Night Coding" src="https://media4.giphy.com/media/8SxGru3XzElqg/giphy.gif?cid=ecf05e47cpirkki3k8np6lieffk5ibos6l5xr1nqs0pdrlt7&ep=v1_gifs_search&rid=giphy.gif" align="center"/>
 
 ### About Me
 ![GitHub followers](https://img.shields.io/github/followers/junior4g?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/junior4g?style=social)
-
-
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Analysis and systems development\
