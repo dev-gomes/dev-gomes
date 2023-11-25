@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="https://media4.giphy.com/media/8SxGru3XzElqg/giphy.gif" align="center"/>
+<img alt="Dark vader" src="https://media4.giphy.com/media/8SxGru3XzElqg/giphy.gif" align="center"/>
+
+And remember, with great power comes great responsibility.
 
 ### Tech Stack
 
@@ -10,7 +12,8 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-ffffff?style=flat&logo=prisma&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-ffffff?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&logo=docker&logoColor=black)&nbsp;
 
 ### I'm learning about
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rubyonrails&logoColor=white)&nbsp;
