@@ -1,6 +1,6 @@
 <img alt="Dark vader" src="https://media4.giphy.com/media/8SxGru3XzElqg/giphy.gif" align="center"/>
 
-And remember, with great power comes great responsibility.
+Quem semeia e-mails, colhe spams.
 
 ### Tech Stack
 
