@@ -1,7 +1,5 @@
 <img alt="Dark vader" src="https://media4.giphy.com/media/8SxGru3XzElqg/giphy.gif" align="center"/>
 
-Quem semeia e-mails, colhe spams.
-
 ### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=black)&nbsp;
