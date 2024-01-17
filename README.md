@@ -1,5 +1,5 @@
 # 𝐇𝐞𝐥𝐥𝐨,
-#### I'm a software developer and internet surfer 🏄
+<p> I'm a software developer, sculpting software landscapes and riding the pixels of the web. 🌪️ </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raimundo%20Junior-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raimundogjunior/)](https://www.linkedin.com/in/raimundogjunior/) 
 [![Gmail Badge](https://img.shields.io/badge/-euraimundojunior@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:euraimundojunior@gmail.com)](mailto:euraimundojunior@gmail.com)
