@@ -7,6 +7,6 @@
 
 ## 🛸 Tech Stack
 - Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=black)&nbsp; ![TypeScript](https://img.shields.io/badge/-Typescript-ffffff?style=flat&logo=typescript&logoColor=black)&nbsp; ![Ruby](https://img.shields.io/badge/-Ruby-ffffff?style=flat&logo=ruby&logoColor=black)&nbsp; 
-- Front-end development: ![Vue.js](https://img.shields.io/badge/-Vue.js-ffffff?style=flat&logo=vue.js&logoColor=black)&nbsp; ![React.js](https://img.shields.io/badge/-React.js-ffffff?style=flat&logo=react&logoColor=black)&nbsp;
+- Front-end development: ![Vue.js](https://img.shields.io/badge/-Vue.js-ffffff?style=flat&logo=vue.js&logoColor=black)&nbsp; ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-ffffff?style=flat&logo=nuxtdotjs&logoColor=black)&nbsp; ![React.js](https://img.shields.io/badge/-React.js-ffffff?style=flat&logo=react&logoColor=black)&nbsp;
 - Back-end development: ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-000000?style=flat&logo=rubyonrails&logoColor=white)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
-- Cloud: ![AWS](https://img.shields.io/badge/-AWS-ffffff?style=flat&logo=amazon-aws&logoColor=black)&nbsp;
+- Cloud: ![AWS](https://img.shields.io/badge/-AWS-ffffff?style=flat&logo=amazonwebservices&logoColor=black)&nbsp;
